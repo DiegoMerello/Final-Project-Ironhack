@@ -1,0 +1,4 @@
+,success,error
+code,False,104
+info,False,The maximum allowed amount of monthly API requests has been reached.
+type,False,request_limit_reached
