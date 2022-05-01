@@ -71,7 +71,7 @@ metals1['USD per tonne']=((1/metals1.rates)*tonne_troy)
 metals2=metals1.rename(columns={'rates':'Price','date':'Date'})
 metalsfinal = metals2.drop(['Price','unit'], axis=1, inplace=True)
     
-fig= px.line(tungsten, x='Date', y='Tungsten Price',
+fig= px.line(tungstenfinal, x='Date', y='Tungsten Price',
              title='Tungsten price evolution', markers=True)
 fig['data'][0]['line']['color']="#00ff00"
 fig.show()
