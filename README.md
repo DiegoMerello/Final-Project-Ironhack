@@ -1,13 +1,12 @@
 # Final-Project-Ironhack
 
-![Image](https://github.com/DiegoMerello/Final-Project-Ironhack/blob/main/13087044_10153729073778843_5327092085042004875_o.jpg)
+![Image](https://github.com/DiegoMerello/Final-Project-Ironhack/blob/main/mining.jpg)
 
 
 ## Project Description
 The last project of the Data Analytics Part Time Bootcamp consists to show tungsten price evolution and daily price of aluminum, iron, tin, tungsten and copper.
 
 The metals price is shown in Streamlit app through a shared link. The app will be updated every time it's open. The metal price are taken from Metals-API, and unfortunately, there is a 50 calls per month.
-
 
 ## Built with
 
@@ -18,7 +17,6 @@ The metals price is shown in Streamlit app through a shared link. The app will b
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 &nbsp;
 
@@ -56,10 +54,17 @@ To run up this app, the next libraries need to be installed in your repository.
 1. Clone this [repo](https://github.com/DiegoMerello/Final-Project-Ironhack)
 2. Create an account on Metals-API website ([here](https://www.metals-api.com/register))
 3. Get your access key generated on the Metals-API website and save it.
-4. Let game begin.
+4. Let game begin. :clown_face:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 &nbsp;
 
+<!-- ROADMAP -->
+## Roadmap
 
+- [ ] Import libraries: Pandas; matplotlib; from sklearn.ensemble import RandomForestRegressor
+- [ ] Clean the data, removing price outliers by carat, depth and table
+- [ ] Test your code
+    
+<p align="right">(<a href="#top">back to top</a>)</p>
