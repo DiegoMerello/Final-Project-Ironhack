@@ -1,0 +1,8 @@
+if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }/*FB_PKG_DELIM*/
+
+__d("LSRoomTruncate",[],(function(a,b,c,d,e,f){function a(){var a=arguments,b=a[a.length-1];b.n;var c=[];return b.seq([function(a){return b.fe(b.db.table(63).fetch(),function(a){return a["delete"]()})},function(a){return b.resolve(c)}])}e.exports=a}),null);
+__d("CometMarketplaceC2COrderDetailsSellerViewDialogQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="5043331472414911"}),null);
+__d("CometMarketplaceYouFollowingContentContainerQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="4297071863747028"}),null);
+__d("CometMarketplaceYouSubmittedOffersContentContainerQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="3656711827708002"}),null);
+__d("FXIMAvatarSettingsDialogV2Query_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="8035476473132697"}),null);
+__d("MarketplaceYouInsightsContentContainerQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="4835324013244240"}),null);
