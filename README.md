@@ -1,4 +1,4 @@
-# Final-Project-Ironhack
+# Final-Project-Ironhack Metal Daily Price
 
 ![Image](https://github.com/DiegoMerello/Final-Project-Ironhack/blob/main/mining.jpg)
 
