@@ -15,7 +15,6 @@ The metals price is shown in Streamlit app through a shared link. The app will b
 * [Plotly](https://plotly.com/)
 * [Streamlit](https://streamlit.io/)
 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 &nbsp;
@@ -44,10 +43,9 @@ To run up this app, the next libraries need to be installed in your repository.
     ```
     pip install streamlit
     ```
- 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-&nbsp;
+<hr style="border:2px solid gray">
 
 ### :hourglass_flowing_sand: Installation
 
