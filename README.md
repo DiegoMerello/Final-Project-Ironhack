@@ -7,6 +7,7 @@
 The last project of the Data Analytics Part Time Bootcamp consists to show tungsten price evolution and daily price of aluminum, iron, tin, tungsten and copper.
 
 The metals price is shown in Streamlit app through a shared link. The app will be updated every time it's open. The metal price are taken from Metals-API, and unfortunately, there is 50 calls limit per month.
+<hr style="border:2px solid blue">
 
 ## Built with
 
@@ -14,9 +15,8 @@ The metals price is shown in Streamlit app through a shared link. The app will b
 * [Requests](https://docs.python-requests.org/en/latest/)
 * [Plotly](https://plotly.com/)
 * [Streamlit](https://streamlit.io/)
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
+<hr style="border:2px solid blue">
 
 <!-- Prerequisites -->
 ### :hammer_and_pick: Prerequisites
@@ -44,7 +44,6 @@ To run up this app, the next libraries need to be installed in your repository.
     pip install streamlit
     ```
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 <hr style="border:2px solid blue">
 
 <!-- Installation -->
@@ -56,6 +55,7 @@ To run up this app, the next libraries need to be installed in your repository.
 4. Let game begin. :clown_face:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+<hr style="border:2px solid blue">
 
 <!-- ROADMAP -->
 ## Roadmap
