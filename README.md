@@ -17,6 +17,8 @@ The metals price is shown in Streamlit app through a shared link. The app will b
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
+<!-- Prerequisites -->
 ### :hammer_and_pick: Prerequisites
 
 To run up this app, the next libraries need to be installed in your repository. 
@@ -45,6 +47,7 @@ To run up this app, the next libraries need to be installed in your repository.
 
 <hr style="border:2px solid blue">
 
+<!-- Installation -->
 ### :hourglass_flowing_sand: Installation
 
 1. Clone this [repo](https://github.com/DiegoMerello/Final-Project-Ironhack)
