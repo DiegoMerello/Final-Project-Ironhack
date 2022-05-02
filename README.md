@@ -45,7 +45,7 @@ To run up this app, the next libraries need to be installed in your repository.
     ```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<hr style="border:2px solid gray">
+<hr style="border:2px solid green">
 
 ### :hourglass_flowing_sand: Installation
 
